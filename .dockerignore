@@ -1,0 +1,20 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+
+
+# Ignore virtual environments
+backend/venv/
+
+# Ignore large files
+ffmpeg-master-latest-win64-gpl/
+
+# Ignore compiled files
+*.pyd
+*.dll
+*.exe
+
+# Ignore .env files (if any)
+.env
