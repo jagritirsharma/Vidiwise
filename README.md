@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Vidiwise
 Multimodal Deep Learning Framework for Intelligent Video Querying and Graph Recognition.
 =======
@@ -83,5 +82,3 @@ These links will allow you to test the video processing and transcription functi
 - If you face any issues, feel free to check the dependencies and verify the correct setup of your environment variables.
 ```
 
-!
->>>>>>> fa3ca246c (Initial Commit)
